@@ -3,7 +3,7 @@ Un Codificador/Descodificador Binario.
 # ⚡ DECOFORMATIC v2.0 
 
 ![Licencia](https://img.shields.io/badge/License-MIT-green.svg)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](TU_ENLACE_DE_DISCORD_AQUÍ)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)]([![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)])
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Plataforma](https://img.shields.io/badge/Platform-Windows-orange.svg)
 
