@@ -3,7 +3,7 @@
 ![Licencia](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Plataforma](https://img.shields.io/badge/Platform-Windows-orange.svg)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/zE4YqqwvTb)
+[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/a2YKCtfx6V)
 
 **DECOFORMATIC** es una herramienta local de escritorio interactiva diseñada en Python para la codificación y descodificación de texto a flujo binario en tiempo real. Con una estética retro-terminal inspirada en entornos cyberpunk, cuenta con una economía digital integrada basada en **DECOTOKENS** y un sistema de automatización de créditos.
 
