@@ -35,5 +35,5 @@ Si quieres ejecutar el script fuente o compilar tu propio binario en Windows, si
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/ssw-813/DECOFORMATIC.git](https://github.com/ssw-813/DECOFORMATIC.git)
+git clone https://github.com/ssw-813/DECOFORMATIC.git
 cd DECOFORMATIC
